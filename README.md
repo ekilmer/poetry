@@ -1,6 +1,6 @@
 # Poetry: Dependency Management for Python
 
-Test. Poetry helps you declare, manage and install dependencies of Python projects,
+Test. Test2. Poetry helps you declare, manage and install dependencies of Python projects,
 ensuring you have the right stack everywhere.
 
 ![Poetry Install](https://raw.githubusercontent.com/python-poetry/poetry/master/assets/install.gif)
